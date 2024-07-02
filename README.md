@@ -14,7 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-<h1>ToDo List App</h1>
+<h1>About: ToDo List App</h1>
 <p>A simple ToDo List App built with React, allowing users to add, delete, and strike-through tasks.</p>
 <h3>Features</h3>
 <ul>
